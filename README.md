@@ -13,7 +13,7 @@ Then, simply download the file `ex-jupyter.py` to your computer, and you are rea
 
 ## Usage
 
-In the terminal, simply run
+In the terminal, run
 
 ```python
 python ex-jupyter.py
